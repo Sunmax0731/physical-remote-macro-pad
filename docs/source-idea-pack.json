@@ -1,0 +1,38 @@
+{
+  "product": "physical-remote-macro-pad",
+  "sourceRank": {
+    "rank": 49,
+    "tier": "P2",
+    "score": 56,
+    "domain": "IoT",
+    "ideaNo": 2,
+    "ideaName": "物理リモコン・マクロパッド",
+    "repositoryName": "physical-remote-macro-pad",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "元100件下位候補。物理ボタンの価値は明確だが、ハード依存が強い。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_002_physical-remote-macro-pad",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_002_physical-remote-macro-pad\\idea_002_physical-remote-macro-pad.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "physical-remote-macro-pad",
+  "metadataIdea": "物理リモコン・マクロパッド",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
